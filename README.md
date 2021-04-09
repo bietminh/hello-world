@@ -7,3 +7,4 @@ This repository is built step by step in the tutorial.
 
 It nows includes steps for GitHub.
 Push a Branch to GitHub
+Delete brand
